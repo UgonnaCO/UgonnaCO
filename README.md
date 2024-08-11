@@ -6,6 +6,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
   - [ Jwipe.PowerShell](https://github.com/UgonnaCO/Jwipe.PowerShell/blob/main/README.md)
 
 <h2>Certifications</h2>
