@@ -10,8 +10,6 @@
 - CompTIA - Network+ | CySA+ | Security+ | PenTest+ ( https://www.credly.com/users/ugonna-onukwufor)  
 - ISC2 - Certified in Cybersecurity (CC) (https://www.credly.com/users/ugonna-onukwufor)
 - CISA - Certified Information Systems Auditor (CISA)
--     [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -20,9 +18,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/ugonnaonukwufor
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
