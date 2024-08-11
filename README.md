@@ -6,7 +6,11 @@
 
 <h2>Certifications</h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Google Cybersecurity Certification (https://coursera.org/share/90588a34560d48a8a3874bacdcaf906a)
+- CompTIA - Network+ | CySA+ | Security+ | PenTest+ ( https://www.credly.com/users/ugonna-onukwufor)  
+- ISC2 - Certified in Cybersecurity (CC) (https://www.credly.com/users/ugonna-onukwufor)
+- CISA - Certified Information Systems Auditor (CISA)
+-     [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -19,8 +23,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[linkedin]: https://linkedin.com/in/ugonnaonukwufor
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
