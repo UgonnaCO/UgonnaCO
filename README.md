@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [ Jwipe.PowerShell](https://github.com/UgonnaCO/Jwipe.PowerShell/blob/main/README.md)
+  - [ JWipe.DiskSanitization](https://github.com/UgonnaCO/Drive-Wiping-Utility-with-PowerShell)
 
 <h2>Certifications</h2>
 
