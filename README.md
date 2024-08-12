@@ -6,6 +6,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+ - [ SecureMigration](https://github.com/UgonnaCO/Secure-Cloud-Migration-and-Compliance)
+ - [ AzureHoneypot](https://github.com/UgonnaCO/Azure-SOC-Honeypot-and-Security-Hardening)
+
+   
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [ Jwipe.PowerShell](https://github.com/UgonnaCO/Jwipe.PowerShell/blob/main/README.md)
